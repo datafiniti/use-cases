@@ -6,7 +6,7 @@ This script allows you to **match a list of addresses from a CSV file** against 
 
 It is designed for customers who:
 
-- Have a list of normalized or semi-normalized addresses  
+- Have a list of normalized or semi-normalized addresses with postal codes
 - Want to quickly identify matching Datafiniti property records  
 - Need a simple batch workflow for enrichment, coverage checks, or QA  
 
